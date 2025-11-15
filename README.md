@@ -1,8 +1,5 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
-
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
 👨‍💻 &nbsp;Estoy actualmente trabajando en un Proyecto individual con el fin de explorar y pulir mis habilidades.\
 💡 &nbsp;Me gusta explorar nuevas tecnologias en cada proyecto, asi como poner a prueba constantemente mis conocimientos.\
