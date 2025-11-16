@@ -27,6 +27,8 @@
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🧰 &nbsp;Control de Versiones y Herramientas
@@ -57,7 +59,13 @@
 ### 🤝🏻 &nbsp;Contacta conmigo
 
 <p align="center">
-<a href="www.linkedin.com/in/jhair-alexis-chapilliquen-ruiz-582513281"><img src="https://img.shields.io/badge/-Alexis-ChapR?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alexchapruiz1416@gmail.com"><img src="https://img.shields.io/badge/-Alexis-ChapR?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/alexis_chap.454/"><img src="https://img.shields.io/badge/-Alexis-ChapR-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jhair-alexis-chapilliquen-ruiz-582513281" target="_blank">
+    <img src="https://img.shields.io/badge/-Alexis--ChapR-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alexchapruiz1416@gmail.com">
+    <img src="https://img.shields.io/badge/-Alexis--ChapR-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/alexis_chap.454/" target="_blank">
+    <img src="https://img.shields.io/badge/-Alexis--ChapR-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
 </p>
